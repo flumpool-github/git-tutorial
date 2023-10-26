@@ -1,3 +1,0 @@
-#issueとコミット紐づけテスト
-fixTest
-AddLine by remote(2023/10/26)
