@@ -1,5 +1,0 @@
-#issueとコミット紐づけテスト
-test
-fixTest
-pullRequestテスト(by workAブランチ)
-pullRequestテスト_2回目(by workAブランチ)
